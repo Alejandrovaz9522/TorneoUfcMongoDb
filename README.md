@@ -3,12 +3,19 @@ Base de datos creada en MongoDb, creada con en el propósito de organizar por co
 
 # Creación de BD y tabla de referis - MongoDB Shell
 1. use torneo_ufc
-2. db.referis.insert({{"_id": 1, "nombres": "Test Nombre", "apellidos": "Test Apellido", "telefono": "xxxxxxx", "pais": "EE.UU", "estado": "Alabama" }})
+2. db.referis.insert({
+  "_id": 1,
+  "nombres": "Tyron",
+  "apellidos": "Woodley",
+  "telefono": "15644731857",
+  "pais": "EE.UU",
+  "estado": "Alabama"
+})
 3. show dbs
 
 # Consultas Básicas
-db.getCollection('combates').find({});
-db.getCollection('jueces').find({});
-db.getCollection('luchadores').find({});
-db.getCollection('programaciones').find({});
-db.getCollection('referis').find({});
+- db.getCollection('combates').find({})
+- db.getCollection('jueces').find({})
+- db.getCollection('luchadores').find({})
+- db.getCollection('programaciones').find({})
+- db.getCollection('referis').find({})
