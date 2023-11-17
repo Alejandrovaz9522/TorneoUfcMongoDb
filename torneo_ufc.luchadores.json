@@ -1,0 +1,96 @@
+[{
+  "_id": 1,
+  "nombres": "Glover",
+  "apellidos": "Teixeira",
+  "telefono": "14844731857",
+  "pais": "Brasil",
+  "estado": "Sobrália",
+  "categoria": "semi-pesado",
+  "estatura": "1.88",
+  "peso": "92",
+  "nacimiento": {
+    "$date": "1979-10-28T00:00:00.000Z"
+  },
+  "representa_a": "Teixeira MMA & Fitness",
+  "destreza": "Diestra"
+},
+{
+  "_id": 2,
+  "nombres": "Jamahal",
+  "apellidos": "Hill",
+  "telefono": "13845780857",
+  "pais": "EE.UU",
+  "estado": "Chicago",
+  "categoria": "semi-pesado",
+  "estatura": "1.93",
+  "peso": "92",
+  "nacimiento": {
+    "$date": "1991-05-19T00:00:00.000Z"
+  },
+  "representa_a": "Black Lion Jiu-Jitsu",
+  "destreza": "Southpaw"
+},
+{
+  "_id": 3,
+  "nombres": "Derrick",
+  "apellidos": "Lewis",
+  "telefono": "14500780857",
+  "pais": "EE.UU",
+  "estado": "Nueva Orleans",
+  "categoria": "Peso completo",
+  "estatura": "1.91",
+  "peso": "120",
+  "nacimiento": {
+    "$date": "1985-02-07T00:00:00.000Z"
+  },
+  "representa_a": "4oz Fight Club",
+  "destreza": "Diestra"
+},
+{
+  "_id": 4,
+  "nombres": "Sergey",
+  "apellidos": "Spivak",
+  "telefono": "13500780857",
+  "pais": "Moldavia",
+  "estado": "Chisináu",
+  "categoria": "Peso completo",
+  "estatura": "1.91",
+  "peso": "116",
+  "nacimiento": {
+    "$date": "1995-01-24T00:00:00.000Z"
+  },
+  "representa_a": "Polar Bear Team",
+  "destreza": "Diestra"
+},
+{
+  "_id": 5,
+  "nombres": "Islam",
+  "apellidos": "Majáchev",
+  "telefono": "12200780857",
+  "pais": "Rusia",
+  "estado": "Majachkalá",
+  "categoria": "Peso Ligero",
+  "estatura": "1.78",
+  "peso": "70",
+  "nacimiento": {
+    "$date": "1991-10-27T00:00:00.000Z"
+  },
+  "representa_a": "Eagles MMA",
+  "destreza": "Southpaw"
+},
+{
+  "_id": 6,
+  "nombres": "Alexander",
+  "apellidos": "Volkanovski",
+  "telefono": "17800780857",
+  "pais": "Australia",
+  "estado": "Wollongong",
+  "categoria": "Peso Pluma",
+  "estatura": "1.68",
+  "peso": "69",
+  "nacimiento": {
+    "$date": "1988-09-29T00:00:00.000Z"
+  },
+  "representa_a": "City Kickboxing",
+  "destreza": "Diestra"
+}]

@@ -1,0 +1,65 @@
+[{
+  "_id": 1,
+  "fecha": "2023-12-02",
+  "hora": "16:00",
+  "evento": "UFC Fight Night: Dariush vs. Tsarukyan",
+  "ubicacion": "Moody Center, Austin, TX",
+  "referi": "Herb Dean",
+  "jueces": [
+    "Marc Goddard",
+    "Derek Cleary",
+    "Dave Hagen"
+  ]
+},
+{
+  "_id": 2,
+  "fecha": "2023-12-09",
+  "hora": "04:00",
+  "evento": "UFC Fight Night: Song vs. Gutierrez",
+  "ubicacion": "Shanghai Indoor Stadium, Shanghái, China",
+  "referi": "Mark Smith",
+  "jueces": [
+    "Tyron Woodley",
+    "Derek Cleary",
+    "Dave Hagen"
+  ]
+},
+{
+  "_id": 3,
+  "fecha": "2023-12-16",
+  "hora": "18:00",
+  "evento": "UFC 296: Edwards vs. Covington",
+  "ubicacion": "T-Mobile Arena, Las Vegas, NV",
+  "referi": "Jason Herzog",
+  "jueces": [
+    "Marc Goddard",
+    "Derek Cleary",
+    "Dave Hagen"
+  ]
+},
+{
+  "_id": 4,
+  "fecha": "2023-11-18",
+  "hora": "14:00",
+  "evento": "UFC Fight Night: Allen vs. Craig",
+  "ubicacion": "UFC APEX, Las Vegas, NV",
+  "referi": "Herb Dean",
+  "jueces": [
+    "Mike Bell",
+    "Derek Cleary",
+    "Dave Hagen"
+  ]
+},
+{
+  "_id": 5,
+  "fecha": "2023-11-11",
+  "hora": "17:00",
+  "evento": "UFC 295: Procházka vs. Pereira",
+  "ubicacion": "Madison Square Garden, Nueva York, NY",
+  "referi": "Chris Tognoni",
+  "jueces": [
+    "Tyron Woodley",
+    "Mike Bell",
+    "Dave Hagen"
+  ]
+}]

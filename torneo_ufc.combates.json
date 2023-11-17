@@ -1,0 +1,90 @@
+[{
+  "_id": 1,
+  "ganador": "Jamahal Hill",
+  "causa_victoria": "Decisión Unanime",
+  "tecnica_usada": "N/A",
+  "rounds": 5,
+  "tiempo": "5:00",
+  "golpes_totales": 248,
+  "cabeza": 180,
+  "cuerpo": 42,
+  "piernas": 10,
+  "control": "3:26",
+  "derribes": 0,
+  "fecha": {
+    "$date": "2023-01-21T00:00:00.000Z"
+  },
+  "perdedor": "Glover Teixeira"
+},
+{
+  "_id": 2,
+  "ganador": "Serghei Spivac",
+  "causa_victoria": "Sumisión",
+  "tecnica_usada": "Triángulo de mano",
+  "rounds": 1,
+  "tiempo": "3:05",
+  "golpes_totales": 36,
+  "cabeza": 12,
+  "cuerpo": 0,
+  "piernas": 0,
+  "control": "2:32",
+  "derribes": 6,
+  "fecha": {
+    "$date": "2023-02-04T00:00:00.000Z"
+  },
+  "perdedor": "Derrick Lewis"
+},
+{
+  "_id": 3,
+  "fecha": {
+    "$date": "2023-02-11T00:00:00.000Z"
+  },
+  "ganador": "Islam Makhachev",
+  "perdedor": "Alexander Volkanovski",
+  "causa_victoria": "Decisión unánime",
+  "tecnica_usada": "N/A",
+  "rounds": 5,
+  "tiempo": "5:00",
+  "golpes_totales": 95,
+  "cabeza": 36,
+  "cuerpo": 18,
+  "piernas": 3,
+  "control": "7:37",
+  "derribes": 4
+},
+{
+  "_id": 4,
+  "fecha": {
+    "$date": "2023-09-02T00:00:00.000Z"
+  },
+  "ganador": "Ciryl Gane",
+  "perdedor": "Serghei Spivac",
+  "causa_victoria": "KO",
+  "tecnica_usada": "Golpes",
+  "rounds": 2,
+  "tiempo": "3:44",
+  "golpes_totales": 110,
+  "cabeza": 48,
+  "cuerpo": 39,
+  "piernas": 22,
+  "control": "0:09",
+  "derribes": 0
+},
+{
+  "_id": 5,
+  "fecha": {
+    "$date": "2023-02-19T00:00:00.000Z"
+  },
+  "ganador": "Jamahal Hill",
+  "perdedor": "Johnny Walker",
+  "causa_victoria": "KO",
+  "tecnica_usada": "Golpe",
+  "rounds": 1,
+  "tiempo": "2:55",
+  "golpes_totales": 7,
+  "cabeza": 5,
+  "cuerpo": 1,
+  "piernas": 0,
+  "control": "0:03",
+  "derribes": 0
+}]

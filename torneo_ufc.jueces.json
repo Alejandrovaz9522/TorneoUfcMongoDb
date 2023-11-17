@@ -1,0 +1,40 @@
+[{
+  "_id": 1,
+  "nombres": "Tyron",
+  "apellidos": "Woodley",
+  "telefono": "15644731857",
+  "pais": "EE.UU",
+  "estado": "Alabama"
+},
+{
+  "_id": 2,
+  "nombres": "Marc",
+  "apellidos": "Goddard",
+  "telefono": "10844731800",
+  "pais": "EE.UU",
+  "estado": "California"
+},
+{
+  "_id": 3,
+  "nombres": "Derek",
+  "apellidos": "Cleary",
+  "telefono": "12844731811",
+  "pais": "EE.UU",
+  "estado": "Arizona"
+},
+{
+  "_id": 4,
+  "nombres": "Dave",
+  "apellidos": "Hagen",
+  "telefono": "19944731855",
+  "pais": "EE.UU",
+  "estado": "Delaware"
+},
+{
+  "_id": 5,
+  "nombres": "Mike",
+  "apellidos": "Bell",
+  "telefono": "13344731800",
+  "pais": "EE.UU",
+  "estado": "Florida"
+}]
